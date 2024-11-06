@@ -3,6 +3,30 @@ html, body{
     height: 100%; 
     font-family: Arial, Helvetica, sans-serif; 
     background-color: paleturquoise;
-    font-size: 20;
 }
  
+#mund{ 
+width: 70%;
+height:40%;
+margin-left: 30%;
+margin-top: 20%;
+    background-color: purple;
+border-radius: 60%;
+width: 200px;
+text-align: right(40px);
+}
+
+#augen{
+    margin-left: 47%;
+    margin-top: 60%;
+    
+}
+
+#gesicht{
+    margin-left: 35%;
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    background-color: yellow;}
+
+#augen{display: flex;}
